@@ -3,9 +3,8 @@ Here is an overview analysis of files_collected.csv :
 Summary
 
 - จำนวนแถว (ไฟล์ทั้งหมด): 109,763 แถว
-- ขนาดรวม (bytes): 314,341,608,638 ≈ 300,000 MB (ประมาณ 300 TB ตาม field รวม; เป็นการรวมจาก size_mb ทุกแถว)
-- จำนวนแถวที่มี md5_hash จริง (ไม่ใช่ N/A ): 0
-  - ตอนนี้ column md5_hash ยังว่างสำหรับทุกไฟล์ (ใช้เป็น placeholder เฉย ๆ)
+- ขนาดรวม (bytes): 314,341,608,638 ≈ 300,000 MB (ประมาณ 300 GB ตาม field รวม; เป็นการรวมจาก size_mb ทุกแถว)
+
 ชนิดไฟล์ (extension)
 
 Top 10 ตามจำนวนไฟล์:
