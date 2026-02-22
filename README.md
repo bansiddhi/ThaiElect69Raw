@@ -1,10 +1,10 @@
 Summary
 
-- CSV path (inside the script): files_collected.csv (but this run used the 20220222 path you gave)
+- CSV path (inside the script): files_collected.csv from 20220222
 - Total rows (files): 109,763
 - Total size (bytes): 314,341,608,638
 - Approx total size (MB, from size_mb column): 299,777.90
-- Rows with MD5 (non‑ N/A ): 0
+
 File types (extensions)
 
 Top extensions by file count:
@@ -45,6 +45,7 @@ Top provinces by total size
 - อุบลราชธานี – 10,332,018,659
 - ร้อยเอ็ด – 9,799,807,256
 - เชียงใหม่ – 9,089,306,976
+
 Depth distribution ( depth column)
 
 - depth = 6 : 70,418
